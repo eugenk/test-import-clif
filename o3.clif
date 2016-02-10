@@ -1,0 +1,4 @@
+(cl-text o3
+  (O 3)
+  (cl-imports https://github.com/eugenk/test-import-clif/raw/master/oA.clif)
+)
